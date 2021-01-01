@@ -1,0 +1,36 @@
+.ek>p{
+    color: orangered;
+    font-size: 3em;
+       display: flex;
+       flex-direction: column;
+       justify-content: space-evenly;
+       width: 900pxpx;
+       clear: both;
+       margin: 10px;
+       font-family: 'Staatliches', cursive;
+       margin-left: 400px;
+     margin-top: -400px;
+     font-size: 2em;
+     display: flex;
+     margin-left:700px;
+     
+    
+    
+    
+    
+}
+.ek>image{
+    float: right;
+}
+.do{
+    color: blue;
+    font-size: 3em;
+       display: flex;
+       flex-direction: column;
+       justify-content: space-evenly;
+       width: 1541px;
+       clear: both;
+}
+.do>image{
+    float: right;
+}
