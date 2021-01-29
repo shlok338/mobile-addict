@@ -1,0 +1,95 @@
+.ek>p{
+    color: red;
+    font-size: 3em;
+       display: flex;
+       flex-direction: column;
+       justify-content: space-evenly;
+       width: 900pxpx;
+       clear: both;
+       margin: 25px;
+       font-family: 'Staatliches', cursive;
+       margin-left: 500px;
+     margin-top: -400px;
+     font-size: 2em;
+     display: flex;
+     margin-left:750px;
+     margin-bottom:800px;
+  
+     
+    
+    
+    
+    
+}
+.ek>image{
+    float: right;
+}
+.do>p{
+    color: gold;
+    font-family: 'Hanalei Fill', cursive;
+       display: flex;
+       flex-direction: column;
+       justify-content: space-evenly;
+       width: 1541px;
+       clear: both;
+       margin: 10px;
+       margin-top: -800px;
+       margin-left: -50px;
+       margin-bottom: 800px;
+       font-size: 2em;
+       width: 900px;
+       padding: 50px;
+       justify-content: right;
+ 
+     
+}
+.do>image{
+    float: right;
+    
+}
+.image{
+ 
+}
+.do-image{
+ margin-right: -10px;
+    margin-top:-10px;
+}
+.teen{
+    color: red;
+    margin-top: -1450px;
+    justify-content: right;
+    font-size: large;
+}
+.OP{
+margin:590px;
+margin-left:-10px;
+color: darksalmon;
+
+}
+
+.instagram{
+    color: forestgreen;
+    margin-right: -100px;
+    margin:10px
+    
+}
+.op2{
+    color: darkolivegreen;
+}
+
+.Epic{
+    color: darkorange;
+    margin:440px;
+    margin-top:-1090px;
+}
+
+.op3{
+    color: darkorchid;
+    margin:490px;
+    margin-top:-420px;
+}
+
+.final{
+margin: 420px;
+margin-top:-455px;
+}
