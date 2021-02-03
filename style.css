@@ -1,0 +1,76 @@
+.ek>p{
+    color: red;
+    font-size: 3em;
+       display: flex;
+       flex-direction: column;
+       justify-content: space-evenly;
+       width: 900pxpx;
+       clear: both;
+       margin: 25px;
+       font-family: 'Staatliches', cursive;
+       margin-left: 500px;
+     margin-top:-450px;
+     font-size: 2em;
+     display: flex;
+     margin-left:750px;
+     margin-bottom:800px;
+
+     
+    
+    
+    
+    
+}
+.ek>image{
+    float: right;
+  
+}
+.do{
+    color: cadetblue;
+    font-family: 'Hanalei Fill', cursive;
+       display: flex;
+       flex-direction: column;
+       justify-content: space-evenly;
+       width: 1541px;
+       clear: both;
+       margin: 10px;
+       margin-top: -810px;
+       margin-left: -50px;
+       margin-bottom: 800px;
+       font-size: 2em;
+       width:600px;
+       padding: 50px;
+       justify-content: right;
+
+ 
+     
+}
+.do>image{
+    float: right;
+    
+}
+
+.ugh{
+    color: chocolate;
+    margin-top: -1350px;
+    justify-content: right;
+    font-size: large;
+    margin-left:750px;
+    padding:-10px;
+    padding-left:10px;
+    background-color: black;
+}
+
+
+
+
+.pls{
+   
+     margin-left:590px;
+
+    }
+    
+
+
+
+
